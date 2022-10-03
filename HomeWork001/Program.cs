@@ -1,6 +1,5 @@
 ﻿// Задача №2: Напишите программу, которая на вход принимает два числа и выдает, какое число большее, а какое меньшее 
-/*Console.WriteLine ("Введите два числа : ");
-*/
+
 int a = int.Parse(Console.ReadLine()!); 
 int b = int.Parse(Console.ReadLine()!);
 
