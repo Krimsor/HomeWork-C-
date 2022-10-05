@@ -1,16 +1,23 @@
 ﻿// Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+/*Console.Write($"{a} -> {b}");*/
+/*int a = new Random().Next();*/
+Console.Write($"Введите число: ");
+int a = int.Parse(Console.ReadLine()!);
+int A = a;
+int b = 0;
 
-int a = new Random().Next();
-
-if (a >= 100)
-{
-    int b = a % 10;
-    Console.Write($"{a} -> {b}");
-}
-
-else 
+if (a < 100)
 {
     Console.Write($"{a} -> Третьей цифры нет");
+}
+else{
+    while (a > 999)
+    {
+        a = a / 10;
+        
+    }
+    b = a % 10;
+    Console.Write($"{A} -> {b}");
 }
 
 /*
