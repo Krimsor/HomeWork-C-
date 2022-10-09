@@ -12,7 +12,7 @@ int B = y2 - y1;
 int C = z1 -z2;
 
 
-double len = Math.Sqrt( A * A + B * B + C * C );
-Console.WriteLine($"Длина отрезка {len}");
+double res = Math.Sqrt( A * A + B * B + C * C );
+Console.WriteLine($"Длина отрезка {res}");
 
 
