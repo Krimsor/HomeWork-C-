@@ -24,6 +24,7 @@ Console.WriteLine($"Среднее арифметическое каждого �
 for (int j = 0; j < b; j++)
 {
     double avg = 0; // avg - arithmeticmean.
+    
     for (int i = 0; i < a; i++)
     {
         avg = (avg + array[i, j]);
