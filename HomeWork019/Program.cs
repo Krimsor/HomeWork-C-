@@ -1,9 +1,10 @@
 ﻿// Задайте двумерный массив размером m x n, заполненный случайными вещественными числами.
-void PrintArray(int[,] table)
+/*
+void PrintArray(double[,] table)
 {
     for (int i = 0; i < table.GetLength(0); i++)
     {
-        for (int j = 0; j < table.GetLength(1); j++)
+        for (int  j = 0; j < table.GetLength(1); j++)
         {
             Console.Write($"{table[i, j]} ");
         }
@@ -11,22 +12,39 @@ void PrintArray(int[,] table)
     }
 }
 
-void FillArray(int[,] tab)
+void FillArray(double[,] tab)
 {
-    for (int i = 0; i < tab.GetLength(0); i++)
+    for (int  i = 0; i < tab.GetLength(0); i++)
     {
-        for (int j = 0; j < tab.GetLength(1); j++)
+        for (int  j = 0; j < tab.GetLength(1); j++)
         {
             tab[i,j] = new Random().Next(-10,10);
         }
     }
 }
+
 Console.Write($"Введите размер массива: ");
-int m = int.Parse(Console.ReadLine()!);
-int n = int.Parse(Console.ReadLine()!);
-int[,] table = new int[m, n];
+int  m = int.Parse(Console.ReadLine()!);
+int  n = int.Parse(Console.ReadLine()!);
+double[,] table = new double[m, n];
 
 PrintArray(table);
 FillArray(table);
 Console.WriteLine();
-PrintArray(table);
+PrintArray(table);*/
+Console.Write($"Введите размер массива: ");
+int n;
+int m;
+int.TryParse(Console.ReadLine()!, out n);
+int.TryParse(Console.ReadLine()!, out m);
+int[,] array = new int[n, m];
+
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < m; j++)
+    {
+        array[i, j] = new Random().Next(10);
+        Console.Write($"{array[i, j]} ");
+    }
+    Console.WriteLine();
+}

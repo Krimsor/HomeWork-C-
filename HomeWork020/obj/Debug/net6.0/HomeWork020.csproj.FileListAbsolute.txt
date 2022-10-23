@@ -1,0 +1,15 @@
+D:\PROJECT C#\HomeWork020\bin\Debug\net6.0\HomeWork020.exe
+D:\PROJECT C#\HomeWork020\bin\Debug\net6.0\HomeWork020.deps.json
+D:\PROJECT C#\HomeWork020\bin\Debug\net6.0\HomeWork020.runtimeconfig.json
+D:\PROJECT C#\HomeWork020\bin\Debug\net6.0\HomeWork020.dll
+D:\PROJECT C#\HomeWork020\bin\Debug\net6.0\HomeWork020.pdb
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\HomeWork020.csproj.AssemblyReference.cache
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\HomeWork020.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\HomeWork020.AssemblyInfoInputs.cache
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\HomeWork020.AssemblyInfo.cs
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\HomeWork020.csproj.CoreCompileInputs.cache
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\HomeWork020.dll
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\refint\HomeWork020.dll
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\HomeWork020.pdb
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\HomeWork020.genruntimeconfig.cache
+D:\PROJECT C#\HomeWork020\obj\Debug\net6.0\ref\HomeWork020.dll
