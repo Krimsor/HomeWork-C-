@@ -18,7 +18,7 @@ void FillArray(double[,] tab)
     {
         for (int  j = 0; j < tab.GetLength(1); j++)
         {
-            tab[i,j] = new Random().Next(-10,10);
+            tab[i,j] = Convert.ToDouble (new Random().Next(-100,100))/10;
         }
     }
 }
@@ -28,22 +28,22 @@ int  m = int.Parse(Console.ReadLine()!);
 int  n = int.Parse(Console.ReadLine()!);
 double[,] table = new double[m, n];
 
-PrintArray(table);
 FillArray(table);
 Console.WriteLine();
 PrintArray(table);*/
+
 Console.Write($"Введите размер массива: ");
 int n;
 int m;
 int.TryParse(Console.ReadLine()!, out n);
 int.TryParse(Console.ReadLine()!, out m);
-int[,] array = new int[n, m];
+double[,] array = new double[n, m];
 
 for (int i = 0; i < n; i++)
 {
     for (int j = 0; j < m; j++)
     {
-        array[i, j] = new Random().Next(10);
+        array[i, j] = Convert.ToDouble (new Random().Next(-100,100))/10;
         Console.Write($"{array[i, j]} ");
     }
     Console.WriteLine();
