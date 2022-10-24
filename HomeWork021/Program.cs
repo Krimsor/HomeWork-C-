@@ -27,8 +27,8 @@ for (int j = 0; j < b; j++)
     
     for (int i = 0; i < a; i++)
     {
-        avg = (avg + array[i, j]);
+        avg += array[i, j];
     }
-    avg = avg / a;
+    avg /= a;
     Console.Write(avg + " ");
 }
