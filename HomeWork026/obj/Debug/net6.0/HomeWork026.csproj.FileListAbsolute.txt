@@ -1,0 +1,15 @@
+D:\PROJECT C#\HomeWork026\bin\Debug\net6.0\HomeWork026.exe
+D:\PROJECT C#\HomeWork026\bin\Debug\net6.0\HomeWork026.deps.json
+D:\PROJECT C#\HomeWork026\bin\Debug\net6.0\HomeWork026.runtimeconfig.json
+D:\PROJECT C#\HomeWork026\bin\Debug\net6.0\HomeWork026.dll
+D:\PROJECT C#\HomeWork026\bin\Debug\net6.0\HomeWork026.pdb
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\HomeWork026.csproj.AssemblyReference.cache
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\HomeWork026.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\HomeWork026.AssemblyInfoInputs.cache
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\HomeWork026.AssemblyInfo.cs
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\HomeWork026.csproj.CoreCompileInputs.cache
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\HomeWork026.dll
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\refint\HomeWork026.dll
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\HomeWork026.pdb
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\HomeWork026.genruntimeconfig.cache
+D:\PROJECT C#\HomeWork026\obj\Debug\net6.0\ref\HomeWork026.dll
